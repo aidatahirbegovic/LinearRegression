@@ -1,0 +1,108 @@
+idrealestate;type;typeOfOffer;city;municipality;squareFootage;constructionYear;landArea;floorInfo;registration;heatingType;roomNo;bathroomNo;price;country;con;pl;pumpaIliKalorimetri
+20;cottage;rent;Beograd;Barajevo;250;NULL;NULL;NULL;NULL;Centralno;4;4;120;Srbija;Standardna;NULL;NULL
+59;home;sale;Podgorica;"Sava Lubarde 35";356;NULL;NULL;NULL;Da;"Samostalno, Klima";NULL;8;NULL;"Crna Gora";Završena;NULL;NULL
+73;home;sale;Budva;NULL;280;NULL;NULL;NULL;Da;Centralno;NULL;4;320000;"Crna Gora";Novogradnja;NULL;NULL
+87;home;sale;"Donji Stoliv";NULL;250;NULL;NULL;NULL;Da;"Centralno, Podno, Samostalno, Klima";4;4;350000;"Crna Gora";Standardna;yes;NULL
+90;home;sale;Budva;NULL;1264;1981;NULL;NULL;Da;Samostalno;8;8;2800000;"Crna Gora";Standardna;yes;NULL
+91;home;sale;"Petrovac na Moru";NULL;140;NULL;NULL;NULL;NULL;NULL;5;4;170000;"Crna Gora";Standardna;NULL;NULL
+93;home;sale;Bigova;NULL;259;NULL;NULL;NULL;Da;NULL;5;5;220000;"Crna Gora";Delimična;NULL;NULL
+405;home;sale;Bar;"Hladna Uvala";344;NULL;NULL;NULL;Da;NULL;5;5;269000;"Crna Gora";Standardna;NULL;NULL
+422;home;sale;Bijela;NULL;130;NULL;NULL;NULL;Da;"Samostalno, Klima";4;4;137000;"Crna Gora";Novogradnja;NULL;NULL
+424;home;sale;"Donji Stoliv";"1 red od mora";300;NULL;NULL;NULL;Da;NULL;6;4;770000;"Crna Gora";Standardna;NULL;NULL
+434;home;sale;Dobrota;"1 red od mora";450;NULL;NULL;NULL;Da;NULL;5;4;1950000;"Crna Gora";Novogradnja;NULL;NULL
+436;home;sale;Tivat;NULL;290;NULL;NULL;NULL;Da;"Podno, Samostalno, Klima";5;4;1200000;"Crna Gora";Novogradnja;yes;NULL
+437;home;sale;Sutomore;NULL;208;NULL;NULL;NULL;Da;NULL;5;5;280000;"Crna Gora";Standardna;NULL;NULL
+454;home;sale;Kotor;NULL;273;NULL;NULL;NULL;Da;"Samostalno, Klima";7;7;480000;"Crna Gora";Novogradnja;yes;NULL
+458;flat;sale;"Petrovac na Moru";NULL;76;NULL;NULL;"1 / 2";Da;Klima;4;4;220000;"Crna Gora";Izvorno;NULL;NULL
+459;home;sale;"Herceg Novi";NULL;190;NULL;NULL;NULL;Da;"Samostalno, Klima";9;5;340000;"Crna Gora";Standardna;NULL;NULL
+471;home;sale;Krašići;Bijelila;220;NULL;NULL;NULL;Da;NULL;4;4;450000;"Crna Gora";Novogradnja;yes;NULL
+474;home;sale;Đenovići;NULL;420;NULL;NULL;NULL;Da;"Podno, Samostalno, Klima";6;6;950000;"Crna Gora";Standardna;yes;NULL
+476;home;sale;Bar;"Veliki Pjesak";300;NULL;NULL;NULL;Da;NULL;8;8;180000;"Crna Gora";Standardna;NULL;NULL
+477;home;sale;Igalo;Njivica;133;NULL;NULL;NULL;Da;NULL;10;5;650000;"Crna Gora";Standardna;yes;NULL
+478;home;sale;Blizikuće;NULL;438;NULL;NULL;NULL;Da;NULL;6;5;295000;"Crna Gora";Novogradnja;yes;NULL
+682;home;sale;Beograd;Avala;500;NULL;NULL;NULL;Da;"Samostalno, Klima";8;6;680;Srbija;Završena;NULL;NULL
+778;flat;rent;Beograd;"Vračar (Hram)";212;NULL;NULL;"5 / 6";NULL;Centralno;4;4;5000;Srbija;Novogradnja;NULL;NULL
+1022;home;sale;Beograd;Jajinci;320;NULL;NULL;NULL;Da;NULL;6;4;580000;Srbija;Novogradnja;NULL;NULL
+1079;flat;sale;Beograd;"Centar (uži)";202;NULL;NULL;"6 / 7";Da;"Centralno, Samostalno, Klima";6;4;550000;Srbija;Standardna;NULL;NULL
+2188;home;sale;Beograd;Senjak;850;NULL;NULL;NULL;Da;NULL;NULL;5;NULL;Srbija;Standardna;yes;NULL
+2275;flat;rent;Beograd;"Kalenić pijaca";370;NULL;NULL;"6 / 6";Da;"Samostalno, Klima";5;4;7400;Srbija;Novogradnja;NULL;NULL
+2312;flat;rent;Beograd;"Vračar (Hram)";400;NULL;NULL;"6 / -";NULL;Centralno;5;5;NULL;Srbija;Novogradnja;NULL;NULL
+2639;home;sale;Niš;Duvanište;506;1981;NULL;NULL;Da;Centralno;14;5;151800;Srbija;Izvorno;NULL;NULL
+2708;home;sale;Beograd;"Veliki mokri lug";400;NULL;NULL;NULL;NULL;Samostalno;8;4;350000;Srbija;Novogradnja;NULL;NULL
+2769;home;sale;Beograd;Ovča;252;NULL;NULL;NULL;NULL;Samostalno;6;4;120000;Srbija;Novogradnja;NULL;NULL
+2772;home;sale;Beograd;Voždovac;240;1981;NULL;NULL;Da;NULL;6;4;130000;Srbija;Standardna;NULL;NULL
+2777;home;sale;Beograd;"Lekino brdo";380;NULL;NULL;NULL;Da;Centralno;10;4;489999;Srbija;Standardna;NULL;NULL
+2848;home;sale;Beograd;Voždovac;240;1981;NULL;NULL;Da;NULL;6;4;130000;Srbija;Standardna;NULL;NULL
+2918;home;sale;Beograd;Ledine;640;NULL;NULL;NULL;NULL;"Samostalno, Klima";10;4;570000;Srbija;Standardna;NULL;NULL
+2925;home;sale;Beograd;Rušanj;390;NULL;NULL;NULL;Da;Samostalno;6;4;442000;Srbija;Standardna;NULL;NULL
+2931;home;sale;Beograd;"Lekino brdo";380;NULL;NULL;NULL;Da;Centralno;10;4;489999;Srbija;Standardna;NULL;NULL
+2965;home;sale;Beograd;Ovča;252;NULL;NULL;NULL;NULL;Samostalno;6;4;120000;Srbija;Novogradnja;NULL;NULL
+2969;home;sale;Beograd;"Veliki mokri lug";400;NULL;NULL;NULL;NULL;Samostalno;8;4;350000;Srbija;Novogradnja;NULL;NULL
+3123;home;sale;Niš;Duvanište;506;1981;NULL;NULL;Da;Centralno;14;5;151800;Srbija;Izvorno;NULL;NULL
+3202;home;sale;Niš;Duvanište;506;1981;NULL;NULL;Da;Centralno;14;5;151800;Srbija;Izvorno;NULL;NULL
+3461;home;sale;Beograd;Senjak;406;2018;NULL;NULL;Da;"Centralno, Podno, Samostalno, Klima";14;4;2600;Srbija;Novogradnja;yes;NULL
+3591;home;sale;Beograd;"Dedinje (Beli dvor)";205;NULL;NULL;NULL;Da;Centralno;6;4;570000;Srbija;Standardna;NULL;NULL
+4269;home;sale;Beograd;"Zemun (Centar)";74;NULL;NULL;NULL;Da;Samostalno;7;4;280000;Srbija;Standardna;NULL;NULL
+4275;home;sale;Beograd;"Donji Dorćol";340;2000;NULL;NULL;Da;Samostalno;7;5;1100000;Srbija;Standardna;NULL;NULL
+4304;home;sale;Beograd;"Kumodraž I";635;2010;NULL;NULL;Da;Klima;10;6;650000;Srbija;Standardna;yes;NULL
+4355;flat;sale;Beograd;"Stari Grad";221;NULL;NULL;"1 / 5";Da;Samostalno;9;4;795600;Srbija;Izvorno;NULL;NULL
+4411;home;sale;"Stara Pazova";Grobljanska;124;1990;NULL;NULL;Da;NULL;7;4;79000;Srbija;Izvorno;NULL;NULL
+4482;home;sale;Beograd;"Višnjička banja";320;2003;NULL;NULL;Da;Samostalno;1;4;420000;Srbija;Novogradnja;yes;NULL
+4665;flat;rent;Beograd;"Vračar (Centar)";190;NULL;NULL;"3 / 3";NULL;Centralno;5;5;1100;Srbija;NULL;NULL;NULL
+4760;home;sale;Beograd;Banjica;350;2000;NULL;NULL;Da;"Samostalno, Klima";7;4;490000;Srbija;Novogradnja;yes;NULL
+4766;home;sale;Beograd;Ovča;253;NULL;NULL;NULL;Da;Samostalno;6;4;120000;Srbija;Novogradnja;NULL;NULL
+4830;home;sale;Niš;Durlan;670;NULL;NULL;NULL;NULL;NULL;NULL;5;350000;Srbija;Završena;NULL;NULL
+5296;home;sale;Beograd;"Dedinje (RTV Pink)";600;2004;NULL;NULL;Da;"Samostalno, Klima";10;4;2490000;Srbija;Novogradnja;yes;NULL
+5905;flat;rent;Beograd;"Vračar (Centar)";220;NULL;NULL;"5 / -";NULL;"Centralno, Klima";5;4;2800;Srbija;Standardna;NULL;NULL
+5946;home;sale;Beograd;Autokomanda;550;NULL;NULL;NULL;Da;NULL;9;5;1700000;Srbija;NULL;NULL;NULL
+5979;home;sale;Beograd;Topčider;604;2010;NULL;NULL;Da;"Centralno, Klima";8;5;2000000;Srbija;Novogradnja;yes;NULL
+5981;home;sale;Beograd;"Banovo brdo";290;1997;NULL;NULL;Da;Klima;10;4;380000;Srbija;Izvorno;NULL;NULL
+6119;home;sale;Beograd;Resnik;350;1972;NULL;NULL;Da;"Samostalno, Klima";8;4;210000;Srbija;Izvorno;NULL;NULL
+6140;home;rent;Beograd;Dušanovac;500;NULL;NULL;NULL;NULL;NULL;1;4;3500;Srbija;Standardna;NULL;NULL
+6152;home;sale;Beograd;"Višnjička banja";128;NULL;NULL;NULL;Da;NULL;6;4;240000;Srbija;Izvorno;NULL;NULL
+6183;home;sale;Beograd;"Mirijevo I";300;NULL;NULL;NULL;NULL;Samostalno;6;4;320000;Srbija;Standardna;NULL;NULL
+6190;home;sale;Beograd;Senjak;850;NULL;NULL;NULL;Da;"Samostalno, Klima";6;4;4000000;Srbija;Standardna;yes;NULL
+6476;home;sale;Beograd;"Zemun (Gornji grad)";196;1965;NULL;NULL;Da;Samostalno;9;9;490000;Srbija;Standardna;NULL;NULL
+6539;flat;sale;Beograd;"Lekino brdo";120;NULL;NULL;"3 / -";Da;Samostalno;4;4;195000;Srbija;Standardna;NULL;NULL
+6667;home;sale;Beograd;"Bežanijska kosa I";208;NULL;NULL;NULL;Da;"Centralno, Klima";5;4;395000;Srbija;Standardna;NULL;NULL
+6762;home;sale;Beograd;"Miljakovac I";405;NULL;NULL;NULL;Da;Samostalno;8;4;220000;Srbija;Standardna;NULL;NULL
+6774;home;sale;Aranđelovac;NULL;299;NULL;NULL;NULL;Da;Samostalno;10;5;300000;Srbija;Standardna;NULL;NULL
+6776;home;sale;Beograd;"Stari Grad";160;NULL;NULL;NULL;Da;Samostalno;7;6;950000;Srbija;Standardna;NULL;NULL
+6780;home;sale;Beograd;"Cvetanova ćuprija";379;1995;NULL;NULL;Da;Samostalno;10;5;300000;Srbija;Standardna;NULL;NULL
+6810;flat;sale;Beograd;"Banovo brdo";219;NULL;NULL;"6 / 6";Da;NULL;5;4;438000;Srbija;Novogradnja;NULL;NULL
+7040;flat;sale;Beograd;Autokomanda;376;2017;NULL;"3 / 4";Da;"Samostalno, Klima";5;4;850000;Srbija;Novogradnja;NULL;NULL
+7353;home;sale;Beograd;"Stari Grad";420;1920;NULL;NULL;Da;"Samostalno, Klima";12;5;520000;Srbija;Izvorno;NULL;NULL
+7362;home;sale;Beograd;"Borča I";366;NULL;NULL;NULL;NULL;"Samostalno, Klima";9;4;250000;Srbija;Novogradnja;NULL;NULL
+7368;home;sale;Beograd;"Borča I";172;NULL;NULL;NULL;NULL;Samostalno;7;4;77000;Srbija;Izvorno;NULL;NULL
+7384;home;sale;Beograd;"Dedinje (RTV Pink)";1290;NULL;NULL;NULL;Da;"Centralno, Samostalno";10;8;5500000;Srbija;NULL;NULL;NULL
+7397;home;sale;Beograd;"Dedinje (25. maj)";143;NULL;NULL;NULL;Da;NULL;6;4;690000;Srbija;NULL;NULL;NULL
+7503;home;sale;Beograd;"Dedinje (Beli dvor)";285;NULL;NULL;NULL;Da;Klima;5;4;550000;Srbija;Novogradnja;NULL;NULL
+7504;home;sale;Beograd;Topčider;900;2006;NULL;NULL;Da;Samostalno;6;6;3900000;Srbija;Novogradnja;yes;NULL
+7542;flat;sale;Beograd;Senjak;273;2020;NULL;"1 / 2";Da;"Centralno, Klima";5;4;1146600;Srbija;Novogradnja;NULL;NULL
+7565;home;rent;Beograd;"Dedinje (RTV Pink)";600;NULL;NULL;NULL;NULL;"Samostalno, Klima";11;5;6000;Srbija;Novogradnja;NULL;NULL
+7731;home;sale;Beograd;"Slavujev venac";329;NULL;NULL;NULL;Da;Samostalno;10;4;598000;Srbija;Standardna;yes;NULL
+7734;home;sale;Beograd;Autokomanda;260;NULL;NULL;NULL;Da;Samostalno;8;4;785000;Srbija;Standardna;NULL;NULL
+7748;home;sale;Beograd;Altina;750;NULL;NULL;NULL;NULL;"Samostalno, Klima";8;5;380000;Srbija;Novogradnja;NULL;pumpa
+7770;home;sale;Beograd;Zvezdara;297;NULL;NULL;NULL;NULL;Samostalno;6;4;515000;Srbija;Standardna;NULL;NULL
+7791;home;sale;Beograd;Senjak;550;NULL;NULL;NULL;Da;Samostalno;12;4;1500000;Srbija;Standardna;NULL;NULL
+7923;home;sale;Beograd;Senjak;400;NULL;NULL;NULL;Da;"Centralno, Klima";11;7;950000;Srbija;Izvorno;NULL;NULL
+7927;home;sale;Beograd;"Stari Grad";610;NULL;NULL;NULL;NULL;"Centralno, Klima";12;13;1500000;Srbija;Izvorno;NULL;NULL
+7937;home;sale;Beograd;"Dedinje (RTV Pink)";580;2002;NULL;NULL;Da;Samostalno;7;4;1900000;Srbija;Novogradnja;yes;NULL
+8003;flat;sale;Beograd;"Novi Beograd Blok 65";204;NULL;NULL;"8 / 9";Da;"Centralno, Klima";5;4;481000;Srbija;Novogradnja;NULL;kalorimetri
+8051;home;sale;Budva;NULL;1264;1981;NULL;NULL;Da;Samostalno;8;8;2800000;"Crna Gora";Standardna;yes;NULL
+8055;home;sale;Beograd;"Dedinje (RTV Pink)";450;1939;NULL;NULL;Da;"Centralno, Klima";8;4;1400000;Srbija;Izvorno;NULL;NULL
+8059;home;sale;Beograd;Senjak;620;2008;NULL;NULL;Da;Samostalno;10;6;3800000;Srbija;Novogradnja;NULL;NULL
+8074;home;sale;Beograd;Senjak;650;2015;NULL;NULL;Da;Klima;5;4;2500000;Srbija;Novogradnja;NULL;NULL
+8077;home;sale;Beograd;Senjak;830;NULL;NULL;NULL;Da;Klima;9;6;2100000;Srbija;Novogradnja;NULL;NULL
+8079;home;sale;Beograd;"Dedinje (RTV Pink)";500;NULL;NULL;NULL;Da;"Centralno, Klima";12;6;1400000;Srbija;Izvorno;NULL;NULL
+8080;home;sale;Beograd;Topčider;810;2014;NULL;NULL;Da;Klima;10;9;2500000;Srbija;Novogradnja;NULL;NULL
+8090;home;sale;Beograd;"Dedinje (RTV Pink)";275;NULL;NULL;NULL;Da;"Centralno, Klima";5;4;750000;Srbija;Novogradnja;NULL;NULL
+8091;home;rent;Beograd;"Dedinje (RTV Pink)";600;NULL;NULL;NULL;NULL;"Samostalno, Klima";11;5;6000;Srbija;Novogradnja;NULL;NULL
+8097;home;sale;Beograd;"Dedinje (RTV Pink)";315;NULL;NULL;NULL;Da;"Centralno, Klima";10;5;1000000;Srbija;Izvorno;NULL;NULL
+8098;home;sale;Beograd;"Dedinje (25. maj)";460;NULL;NULL;NULL;Da;"Samostalno, Klima";6;4;1800000;Srbija;Izvorno;yes;NULL
+8124;home;sale;Beograd;Topčider;1150;2008;NULL;NULL;Da;Samostalno;6;5;4650000;Srbija;Novogradnja;yes;NULL
+8171;home;sale;Podgorica;"Sava Lubarde 35";356;NULL;NULL;NULL;Da;"Samostalno, Klima";NULL;8;NULL;"Crna Gora";Završena;NULL;NULL
+8311;home;sale;Beograd;Jajinci;251;NULL;NULL;NULL;Da;Samostalno;6;5;256000;Srbija;Standardna;NULL;NULL
+8662;home;sale;Beograd;"Borča I";300;NULL;NULL;NULL;NULL;"Samostalno, Klima";7;4;210000;Srbija;Novogradnja;NULL;NULL
+9175;home;sale;Pančevo;"Nova misa";350;1995;NULL;NULL;Da;NULL;6;4;250000;Srbija;NULL;NULL;NULL
+10022;home;sale;"Sremska Kamenica";"Tatarsko brdo";687;2010;NULL;NULL;Da;Klima;6;4;463500;Srbija;Novogradnja;NULL;NULL

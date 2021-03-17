@@ -1,0 +1,101 @@
+idrealestate;type;typeOfOffer;city;municipality;squareFootage;constructionYear;landArea;floorInfo;registration;heatingType;roomNo;bathroomNo;price;country;con;pl;pumpaIliKalorimetri
+1989;home;rent;Beograd;"Dedinje (RTV Pink)";600;NULL;NULL;NULL;NULL;Samostalno;9;NULL;6000;Srbija;Standardna;NULL;NULL
+6681;home;rent;Beograd;"Dedinje (Beli dvor)";550;NULL;NULL;NULL;NULL;"Centralno, Klima";10;1;6000;Srbija;Izvorno;NULL;NULL
+6513;home;rent;Beograd;"Dedinje (25. maj)";450;NULL;NULL;NULL;NULL;NULL;10;1;6000;Srbija;Standardna;NULL;NULL
+7565;home;rent;Beograd;"Dedinje (RTV Pink)";600;NULL;NULL;NULL;NULL;"Samostalno, Klima";11;5;6000;Srbija;Novogradnja;NULL;NULL
+8091;home;rent;Beograd;"Dedinje (RTV Pink)";600;NULL;NULL;NULL;NULL;"Samostalno, Klima";11;5;6000;Srbija;Novogradnja;NULL;NULL
+6148;home;rent;Beograd;"Dedinje (RTV Pink)";550;NULL;NULL;NULL;NULL;Centralno;10;2;6000;Srbija;Novogradnja;NULL;NULL
+4696;home;rent;Beograd;Zvezdara;500;NULL;NULL;NULL;NULL;Samostalno;6;NULL;5200;Srbija;Novogradnja;NULL;NULL
+7174;home;rent;Beograd;Senjak;600;NULL;NULL;NULL;NULL;"Centralno, Samostalno";6;NULL;5000;Srbija;Novogradnja;NULL;NULL
+1952;home;rent;Beograd;Senjak;550;NULL;NULL;NULL;Da;Samostalno;9;NULL;5000;Srbija;Standardna;NULL;NULL
+6906;home;rent;Beograd;Krnjača;380;NULL;NULL;NULL;NULL;"Samostalno, Klima";7;NULL;5000;Srbija;Novogradnja;NULL;NULL
+3299;home;rent;Beograd;"Dedinje (Beli dvor)";550;2000;NULL;NULL;NULL;Samostalno;9;NULL;4500;Srbija;Standardna;NULL;NULL
+3275;home;rent;Beograd;"Dedinje (Beli dvor)";550;2000;NULL;NULL;NULL;Samostalno;9;NULL;4500;Srbija;Standardna;NULL;NULL
+6535;home;rent;Beograd;"Dedinje (Beli dvor)";600;NULL;NULL;NULL;Da;"Samostalno, Klima";10;1;4500;Srbija;Standardna;NULL;NULL
+8050;home;rent;Beograd;"Centar (uži)";450;1935;NULL;NULL;NULL;Klima;6;3;4300;Srbija;Izvorno;yes;NULL
+8388;home;rent;Beograd;"Dedinje (Beli dvor)";350;NULL;NULL;NULL;NULL;"Samostalno, Klima";5;NULL;4200;Srbija;Standardna;NULL;NULL
+6186;home;rent;Beograd;"Dedinje (25. maj)";250;NULL;NULL;NULL;NULL;Klima;5;2;4000;Srbija;Standardna;NULL;NULL
+1713;home;rent;Beograd;"Gornji Dorćol";275;1930;NULL;NULL;Da;Samostalno;9;NULL;3500;Srbija;Standardna;NULL;NULL
+5548;home;rent;Beograd;"Dedinje (RTV Pink)";400;NULL;NULL;NULL;NULL;NULL;7;NULL;3500;Srbija;Standardna;NULL;NULL
+4240;home;rent;Beograd;"Stari Grad";275;NULL;NULL;NULL;NULL;NULL;5;NULL;3500;Srbija;Standardna;NULL;NULL
+4201;home;rent;Beograd;Batajnica;870;NULL;NULL;NULL;NULL;NULL;5;NULL;3500;Srbija;Standardna;NULL;NULL
+3273;home;rent;Beograd;Batajnica;880;NULL;NULL;NULL;NULL;Samostalno;9;NULL;3500;Srbija;Standardna;NULL;NULL
+3294;home;rent;Beograd;Batajnica;880;NULL;NULL;NULL;NULL;Samostalno;9;NULL;3500;Srbija;Standardna;NULL;NULL
+6135;home;rent;Beograd;"Centar (uži)";275;NULL;NULL;NULL;NULL;Klima;10;3;3500;Srbija;Standardna;NULL;NULL
+6140;home;rent;Beograd;Dušanovac;500;NULL;NULL;NULL;NULL;NULL;1;4;3500;Srbija;Standardna;NULL;NULL
+7925;home;rent;Beograd;Voždovac;400;NULL;NULL;NULL;NULL;"Samostalno, Klima";1;1;3300;Srbija;Standardna;yes;NULL
+2046;home;rent;Beograd;Pregrevica;420;NULL;NULL;NULL;NULL;Samostalno;7;NULL;3200;Srbija;Standardna;NULL;NULL
+4331;home;rent;Beograd;"Donji Dorćol";350;NULL;NULL;NULL;NULL;"Centralno, Klima";1;1;3000;Srbija;Novogradnja;NULL;NULL
+9674;home;rent;Beograd;Čubura;300;NULL;NULL;NULL;NULL;Centralno;8;NULL;3000;Srbija;Standardna;NULL;NULL
+4381;home;rent;Beograd;Košutnjak;365;NULL;NULL;NULL;NULL;Samostalno;10;1;2800;Srbija;Izvorno;NULL;NULL
+9381;home;rent;Beograd;"Gundulićev venac";350;2000;NULL;NULL;Da;Samostalno;6;NULL;2800;Srbija;Standardna;NULL;NULL
+5927;home;rent;Beograd;"Dedinje (Beli dvor)";250;NULL;NULL;NULL;NULL;"Samostalno, Klima";5;2;2750;Srbija;Standardna;yes;NULL
+4073;home;rent;Beograd;"Dedinje (RTV Pink)";220;NULL;NULL;NULL;NULL;Klima;5;NULL;2750;Srbija;Standardna;NULL;NULL
+4098;home;rent;Beograd;"Dedinje (RTV Pink)";220;NULL;NULL;NULL;NULL;Klima;5;NULL;2750;Srbija;Standardna;NULL;NULL
+7393;home;rent;Beograd;"Dedinje (Beli dvor)";220;NULL;NULL;NULL;Da;Centralno;5;3;2750;Srbija;NULL;yes;NULL
+7918;home;rent;Beograd;"Dedinje (Beli dvor)";220;2005;NULL;NULL;NULL;Samostalno;5;3;2750;Srbija;Novogradnja;yes;NULL
+4373;home;rent;Beograd;Banjica;282;NULL;NULL;NULL;NULL;Centralno;10;1;2600;Srbija;Novogradnja;NULL;NULL
+4503;home;rent;Beograd;"Filmski grad";267;NULL;NULL;NULL;NULL;Samostalno;10;1;2500;Srbija;Izvorno;NULL;NULL
+6721;home;rent;Beograd;"Dedinje (RTV Pink)";300;NULL;NULL;NULL;NULL;"Samostalno, Klima";7;3;2500;Srbija;Novogradnja;NULL;NULL
+2505;home;rent;Beograd;Jajinci;326;NULL;NULL;NULL;NULL;Samostalno;5;NULL;2400;Srbija;Standardna;NULL;NULL
+6547;home;rent;Beograd;"Bežanijska kosa I";250;NULL;NULL;NULL;NULL;"Centralno, Klima";10;1;2400;Srbija;Standardna;NULL;NULL
+3156;home;rent;Beograd;Jajinci;326;NULL;NULL;NULL;NULL;Samostalno;5;NULL;2400;Srbija;Standardna;NULL;NULL
+3247;home;rent;Beograd;Jajinci;326;NULL;NULL;NULL;NULL;Samostalno;5;NULL;2400;Srbija;Standardna;NULL;NULL
+2627;home;rent;Beograd;Jajinci;326;NULL;NULL;NULL;NULL;Samostalno;5;NULL;2400;Srbija;Standardna;NULL;NULL
+6538;home;rent;Beograd;Jajinci;326;NULL;NULL;NULL;NULL;NULL;4;3;2300;Srbija;Standardna;NULL;NULL
+5187;home;rent;Beograd;Voždovac;360;NULL;NULL;NULL;NULL;Centralno;NULL;NULL;2100;Srbija;Novogradnja;NULL;NULL
+6151;home;rent;Beograd;Banjica;360;1997;NULL;NULL;NULL;NULL;10;3;2100;Srbija;Standardna;NULL;NULL
+5468;home;rent;Beograd;"Zemun (Kalvarija)";285;NULL;NULL;NULL;NULL;Klima;5;NULL;2000;Srbija;Novogradnja;NULL;NULL
+2706;home;rent;Beograd;"Veliki mokri lug";360;NULL;NULL;NULL;NULL;NULL;6;1;2000;Srbija;Izvorno;NULL;NULL
+3690;home;rent;Beograd;Beogradska;1050;NULL;NULL;NULL;NULL;NULL;9;NULL;2000;Srbija;U;NULL;NULL
+6690;home;rent;Beograd;Retenzija;200;NULL;NULL;NULL;NULL;Klima;5;1;2000;Srbija;Standardna;NULL;NULL
+5758;flat;rent;Beograd;"Vračar (Centar)";130;NULL;NULL;"5 / 6";Da;NULL;4;1;325000;Srbija;NULL;NULL;NULL
+8716;flat;rent;Beograd;Lion;56;2015;NULL;"2 / 3";NULL;"Samostalno, Klima";3;1;67000;Srbija;Standardna;NULL;NULL
+2275;flat;rent;Beograd;"Kalenić pijaca";370;NULL;NULL;"6 / 6";Da;"Samostalno, Klima";5;4;7400;Srbija;Novogradnja;NULL;NULL
+6548;flat;rent;Beograd;"Dedinje (25. maj)";500;NULL;NULL;"1 / -";NULL;NULL;4;1;6500;Srbija;Standardna;NULL;NULL
+508;flat;rent;Beograd;"Vračar (Hram)";212;NULL;NULL;"5 / -";NULL;Centralno;4;3;5000;Srbija;Novogradnja;NULL;NULL
+510;flat;rent;Beograd;"Vračar (Hram)";280;NULL;NULL;"3 / -";NULL;Centralno;5;3;5000;Srbija;Novogradnja;NULL;NULL
+9165;flat;rent;Beograd;Senjak;400;NULL;NULL;"3 / 4";NULL;Centralno;7;1;5000;Srbija;Standardna;NULL;NULL
+778;flat;rent;Beograd;"Vračar (Hram)";212;NULL;NULL;"5 / 6";NULL;Centralno;4;4;5000;Srbija;Novogradnja;NULL;NULL
+10458;flat;rent;Beograd;"Vračar (Hram)";165;NULL;NULL;"3 / -";NULL;Centralno;4;3;4500;Srbija;Novogradnja;NULL;NULL
+534;flat;rent;Beograd;"Dedinje (RTV Pink)";200;NULL;NULL;"3 / -";NULL;Centralno;4;3;4500;Srbija;Novogradnja;NULL;NULL
+6665;flat;rent;Beograd;Senjak;200;NULL;NULL;"1 / -";NULL;Centralno;4;2;4200;Srbija;Novogradnja;NULL;NULL
+1561;flat;rent;Beograd;"Borča I";1080;2020;NULL;"- / -";NULL;NULL;1;NULL;4100;Srbija;Standardna;NULL;NULL
+764;flat;rent;Beograd;"Vračar (Hram)";200;NULL;NULL;"5 / -";NULL;Centralno;5;3;4000;Srbija;Novogradnja;NULL;NULL
+3103;flat;rent;Beograd;"Vračar (Hram)";200;NULL;NULL;"4 / -";NULL;Centralno;4;2;4000;Srbija;Novogradnja;NULL;NULL
+2225;flat;rent;Beograd;"Kalenić pijaca";200;NULL;NULL;"5 / 6";NULL;Centralno;5;3;4000;Srbija;Novogradnja;NULL;NULL
+3175;flat;rent;Beograd;"Vračar (Hram)";200;NULL;NULL;"4 / -";NULL;Centralno;4;2;4000;Srbija;Novogradnja;NULL;NULL
+3284;flat;rent;Beograd;"Vračar (Hram)";200;NULL;NULL;"5 / 6";NULL;Centralno;4;3;4000;Srbija;Novogradnja;NULL;NULL
+839;flat;rent;Beograd;"Dedinje (RTV Pink)";280;NULL;NULL;"2 / -";NULL;Centralno;5;3;4000;Srbija;Novogradnja;NULL;NULL
+2269;flat;rent;Beograd;"Kalenić pijaca";200;NULL;NULL;"5 / 6";NULL;Centralno;5;3;4000;Srbija;Novogradnja;NULL;NULL
+3297;flat;rent;Beograd;"Vračar (Hram)";200;NULL;NULL;"5 / 6";NULL;Centralno;4;3;4000;Srbija;Novogradnja;NULL;NULL
+550;flat;rent;Beograd;"Dedinje (RTV Pink)";300;NULL;NULL;"- / -";NULL;Centralno;4;3;4000;Srbija;Novogradnja;NULL;NULL
+2645;flat;rent;Beograd;"Vračar (Hram)";200;NULL;NULL;"5 / 6";NULL;Centralno;4;3;4000;Srbija;Novogradnja;NULL;NULL
+3557;flat;rent;Beograd;Senjak;200;NULL;NULL;"1 / -";NULL;Centralno;4;2;4000;Srbija;Novogradnja;yes;NULL
+2228;flat;rent;Beograd;"Kalenić pijaca";200;NULL;NULL;"4 / 6";Da;"Samostalno, Klima";5;2;4000;Srbija;Novogradnja;NULL;NULL
+3177;flat;rent;Beograd;"Dedinje (RTV Pink)";260;NULL;NULL;"- / -";NULL;Centralno;4;3;3500;Srbija;Novogradnja;NULL;NULL
+3515;flat;rent;Beograd;"Centar (uži)";214;2018;NULL;"7 / 7";NULL;"Centralno, Klima";3;1;3500;Srbija;Standardna;NULL;NULL
+759;flat;rent;Beograd;"Dedinje (RTV Pink)";170;NULL;NULL;"1 / 3";NULL;Centralno;4;2;3500;Srbija;Novogradnja;yes;NULL
+4545;flat;rent;Beograd;"Vračar (Hram)";170;NULL;NULL;"5 / 5";NULL;Centralno;4;2;3500;Srbija;Novogradnja;NULL;NULL
+756;flat;rent;Beograd;"Centar (uži)";214;NULL;NULL;"7 / 7";NULL;Centralno;3;2;3500;Srbija;Novogradnja;NULL;NULL
+3821;flat;rent;Beograd;"Centar (uži)";214;2018;NULL;"7 / 7";NULL;"Centralno, Klima";3;1;3500;Srbija;Standardna;NULL;NULL
+3104;flat;rent;Beograd;"Dedinje (RTV Pink)";260;NULL;NULL;"- / -";NULL;Centralno;4;3;3500;Srbija;Novogradnja;NULL;NULL
+768;flat;rent;Beograd;"Dedinje (RTV Pink)";260;NULL;NULL;"- / -";NULL;Centralno;4;3;3500;Srbija;Novogradnja;NULL;NULL
+746;flat;rent;Beograd;"Dedinje (RTV Pink)";170;NULL;NULL;"1 / -";NULL;Centralno;4;2;3500;Srbija;Novogradnja;yes;NULL
+2281;flat;rent;Beograd;"Kalenić pijaca";170;NULL;NULL;"5 / 6";NULL;Centralno;4;2;3400;Srbija;Novogradnja;NULL;NULL
+2267;flat;rent;Beograd;"Kalenić pijaca";170;NULL;NULL;"4 / 6";Da;"Samostalno, Klima";4;2;3400;Srbija;Novogradnja;NULL;NULL
+4533;flat;rent;Beograd;"Vračar (Hram)";172;NULL;NULL;"5 / -";NULL;Centralno;4;2;3300;Srbija;Novogradnja;NULL;NULL
+3114;flat;rent;Beograd;"Dedinje (RTV Pink)";150;NULL;NULL;"- / -";NULL;Centralno;4;2;3000;Srbija;Novogradnja;NULL;NULL
+10514;flat;rent;Beograd;"Dedinje (RTV Pink)";150;NULL;NULL;"- / -";NULL;Centralno;4;3;3000;Srbija;Novogradnja;NULL;NULL
+690;flat;rent;Beograd;"Dedinje (RTV Pink)";220;NULL;NULL;"3 / -";NULL;Centralno;5;3;3000;Srbija;Novogradnja;yes;NULL
+3184;flat;rent;Beograd;"Dedinje (RTV Pink)";150;NULL;NULL;"- / -";NULL;Centralno;4;2;3000;Srbija;Novogradnja;NULL;NULL
+2401;flat;rent;Beograd;Tašmajdan;236;2012;NULL;"3 / 3";NULL;Samostalno;4;NULL;3000;Srbija;Standardna;NULL;NULL
+549;flat;rent;Beograd;"Vračar (Hram)";160;NULL;NULL;"3 / -";NULL;Centralno;4;3;3000;Srbija;Novogradnja;NULL;NULL
+2268;flat;rent;Beograd;"Kalenić pijaca";140;NULL;NULL;"3 / 6";NULL;Centralno;4;2;2800;Srbija;Novogradnja;NULL;NULL
+2224;flat;rent;Beograd;"Kalenić pijaca";140;NULL;NULL;"3 / 6";NULL;Centralno;4;2;2800;Srbija;Novogradnja;NULL;NULL
+2246;flat;rent;Beograd;"Kalenić pijaca";140;NULL;NULL;"1 / 6";Da;"Samostalno, Klima";4;2;2800;Srbija;Novogradnja;NULL;NULL
+5905;flat;rent;Beograd;"Vračar (Centar)";220;NULL;NULL;"5 / -";NULL;"Centralno, Klima";5;4;2800;Srbija;Standardna;NULL;NULL
+4638;flat;rent;Beograd;"Vračar (Hram)";169;NULL;NULL;"- / -";Da;Samostalno;4;NULL;2800;Srbija;Novogradnja;NULL;NULL
+2264;flat;rent;Beograd;"Kalenić pijaca";140;NULL;NULL;"3 / 6";NULL;Centralno;4;2;2800;Srbija;Novogradnja;NULL;NULL
+2367;flat;rent;Beograd;"Dedinje (Beli dvor)";262;NULL;NULL;"2 / 2";NULL;Samostalno;5;NULL;2700;Srbija;Standardna;NULL;NULL
+6463;flat;rent;Beograd;"Dedinje (Beli dvor)";150;NULL;NULL;"- / 3";NULL;"Samostalno, Klima";4;3;2600;Srbija;Standardna;NULL;NULL

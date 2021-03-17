@@ -1,0 +1,192 @@
+idrealestate;type;typeOfOffer;city;municipality;squareFootage;constructionYear;landArea;floorInfo;registration;heatingType;roomNo;bathroomNo;price;country;con;pl;pumpaIliKalorimetri
+300;home;sale;Kotor;NULL;497;NULL;NULL;NULL;NULL;"Centralno, Podno";NULL;NULL;3500000;"Crna Gora";NULL;yes;pumpa
+566;flat;rent;"Novi Sad";Bulevar;28;NULL;NULL;"4 / 8";NULL;Centralno;1;NULL;260;Srbija;Novogradnja;NULL;kalorimetri
+668;flat;sale;Beograd;Čubura;96;NULL;NULL;"3 / 4";NULL;Centralno;4;NULL;219000;Srbija;Novogradnja;NULL;kalorimetri
+704;flat;sale;Beograd;"Crveni krst";64;NULL;NULL;"2 / 5";Da;Centralno;2.5;1;128000;Srbija;Novogradnja;NULL;kalorimetri
+706;flat;sale;Beograd;"Lekino brdo";110;NULL;NULL;"4 / 4";Da;Centralno;NULL;2;220000;Srbija;Novogradnja;NULL;kalorimetri
+803;flat;sale;Beograd;"Beograd na vodi";56;NULL;NULL;"21 / -";Da;Centralno;2;1;196888;Srbija;Novogradnja;NULL;kalorimetri
+805;flat;sale;Beograd;"Beograd na vodi";55;NULL;NULL;"23 / 24";Da;Centralno;2;1;186888;Srbija;Novogradnja;NULL;kalorimetri
+810;flat;sale;Beograd;"Beograd na vodi";51;NULL;NULL;"5 / 17";Da;Centralno;2;1;156888;Srbija;Novogradnja;NULL;kalorimetri
+811;flat;sale;Pančevo;Centar;68;NULL;NULL;"3 / -";Da;Centralno;NULL;1;82000;Srbija;Novogradnja;NULL;kalorimetri
+991;flat;sale;Beograd;"Crveni krst";60;NULL;NULL;"1 / 5";NULL;Centralno;3;1;138000;Srbija;Novogradnja;NULL;kalorimetri
+1044;flat;sale;Beograd;"Beograd na vodi";139;NULL;NULL;"15 / 17";Da;Centralno;4;3;661888;Srbija;Novogradnja;NULL;kalorimetri
+1091;flat;sale;Beograd;"Crveni krst";69;2020;NULL;"0 / 3";NULL;Centralno;3;NULL;158535;Srbija;Novogradnja;NULL;kalorimetri
+1117;flat;sale;"Novi Sad";Detelinara;64;NULL;NULL;"6 / 6";NULL;Centralno;NULL;NULL;81425;Srbija;Novogradnja;NULL;kalorimetri
+1120;flat;sale;"Novi Sad";Detelinara;40;NULL;NULL;"6 / 6";NULL;Centralno;NULL;NULL;59415;Srbija;Novogradnja;NULL;kalorimetri
+1121;flat;sale;"Novi Sad";Detelinara;68;NULL;NULL;"6 / 6";NULL;Centralno;NULL;NULL;84575;Srbija;Novogradnja;NULL;kalorimetri
+1126;flat;sale;"Novi Sad";Podbara;69;2020;NULL;"2 / 4";Da;Centralno;NULL;NULL;87465;Srbija;Novogradnja;NULL;kalorimetri
+1127;flat;sale;"Novi Sad";Podbara;66;2020;NULL;"1 / 4";Da;Centralno;NULL;NULL;83325;Srbija;Novogradnja;NULL;kalorimetri
+1128;flat;sale;"Novi Sad";Podbara;64;2020;NULL;"1 / 4";Da;Centralno;NULL;NULL;81255;Srbija;Novogradnja;NULL;kalorimetri
+1129;flat;sale;"Novi Sad";Podbara;63;2020;NULL;"1 / 4";Da;Centralno;NULL;NULL;80112;Srbija;Novogradnja;NULL;kalorimetri
+1130;flat;sale;"Novi Sad";Podbara;67;2020;NULL;"4 / 4";Da;Centralno;NULL;NULL;84773;Srbija;Novogradnja;NULL;kalorimetri
+1150;flat;sale;"Novi Sad";Podbara;59;2020;NULL;"4 / 4";Da;Centralno;NULL;NULL;75413;Srbija;Novogradnja;NULL;kalorimetri
+1187;flat;sale;"Novi Sad";Podbara;62;2020;NULL;"4 / 4";Da;Centralno;NULL;NULL;78448;Srbija;Novogradnja;NULL;kalorimetri
+1306;flat;sale;Beograd;Voždovac;84;2020;NULL;"3 / 3";NULL;Centralno;4;NULL;199900;Srbija;Novogradnja;NULL;kalorimetri
+1335;flat;sale;Beograd;"Botanička bašta";65;2019;NULL;"3 / 6";NULL;Centralno;3;NULL;184000;Srbija;Novogradnja;NULL;kalorimetri
+1373;flat;sale;Beograd;"Beograd na vodi";55;NULL;NULL;"22 / 23";Da;Centralno;2;NULL;225000;Srbija;Novogradnja;NULL;kalorimetri
+1382;flat;sale;Beograd;"Gornji Dorćol";46;2017;NULL;"4 / 6";Da;Centralno;2;NULL;139000;Srbija;Novogradnja;NULL;kalorimetri
+1435;flat;sale;Beograd;Tašmajdan;51;2018;NULL;"4 / 6";Da;Centralno;2;NULL;177000;Srbija;Novogradnja;NULL;kalorimetri
+1484;home;sale;Beograd;Kaluđerica;360;2009;NULL;NULL;Da;Samostalno;8;NULL;195000;Srbija;Novogradnja;NULL;pumpa
+2376;flat;sale;Beograd;"Novi Beograd Blok 45 (TC Enjub)";70;NULL;NULL;"3 / 9";NULL;Centralno;2;NULL;154000;Srbija;Novogradnja;NULL;kalorimetri
+2568;flat;sale;Beograd;"Višnjička banja";76;NULL;NULL;"3 / 5";NULL;Centralno;3;1;95000;Srbija;U;NULL;kalorimetri
+2637;flat;rent;Beograd;"Donji Dorćol";67;NULL;NULL;"5 / 8";Da;Centralno;NULL;1;700;Srbija;Novogradnja;NULL;kalorimetri
+2687;flat;sale;"Novi Sad";"Novo Naselje";72;NULL;NULL;"2 / 5";NULL;Centralno;NULL;1;94900;Srbija;NULL;NULL;kalorimetri
+2741;flat;sale;"Novi Sad";Bulevar;89;NULL;NULL;"2 / 9";Da;Centralno;3;2;183340;Srbija;Novogradnja;NULL;kalorimetri
+2952;flat;sale;"Novi Sad";"Novo Naselje";72;NULL;NULL;"2 / 5";NULL;Centralno;NULL;1;94900;Srbija;NULL;NULL;kalorimetri
+3003;flat;sale;"Novi Sad";Bulevar;89;NULL;NULL;"2 / 9";Da;Centralno;3;2;183340;Srbija;Novogradnja;NULL;kalorimetri
+3126;flat;rent;Beograd;"Donji Dorćol";67;NULL;NULL;"5 / 8";Da;Centralno;NULL;1;700;Srbija;Novogradnja;NULL;kalorimetri
+3140;flat;sale;Beograd;"Crveni krst";39;NULL;NULL;"0 / 7";Da;Centralno;2;NULL;74568;Srbija;Novogradnja;NULL;kalorimetri
+3200;flat;rent;Beograd;"Donji Dorćol";67;NULL;NULL;"5 / 8";Da;Centralno;NULL;1;700;Srbija;Novogradnja;NULL;kalorimetri
+3223;flat;sale;Beograd;"Crveni krst";39;NULL;NULL;"0 / 7";Da;Centralno;2;NULL;74568;Srbija;Novogradnja;NULL;kalorimetri
+3320;flat;sale;Beograd;"Crveni krst";43;NULL;NULL;"7 / 7";Da;Centralno;2;NULL;73880;Srbija;Novogradnja;NULL;kalorimetri
+3648;flat;rent;Beograd;Voždovac;84;NULL;NULL;"2 / -";NULL;Centralno;4;2;700;Srbija;Novogradnja;NULL;kalorimetri
+3730;flat;sale;Beograd;"Vračar (Centar)";69;2012;NULL;"1 / 7";Da;Centralno;3;NULL;200000;Srbija;Novogradnja;NULL;kalorimetri
+3784;flat;rent;Niš;Centar;50;NULL;NULL;"4 / -";Da;"Centralno, Klima";1;NULL;300;Srbija;Novogradnja;NULL;kalorimetri
+3809;flat;sale;Beograd;"Beograd na vodi";136;NULL;NULL;"13 / 17";NULL;"Centralno, Klima";3;1;611888;Srbija;Standardna;NULL;kalorimetri
+3812;flat;sale;Beograd;"Beograd na vodi";111;NULL;NULL;"7 / 17";Da;"Centralno, Klima";3;1;332888;Srbija;Novogradnja;NULL;kalorimetri
+3909;flat;sale;Beograd;"Vračar (Centar)";69;2012;NULL;"1 / 7";Da;Centralno;3;NULL;200000;Srbija;Novogradnja;NULL;kalorimetri
+4043;flat;sale;Beograd;Voždovac;78;NULL;NULL;"3 / 4";Da;"Centralno, Klima";4;NULL;154000;Srbija;Novogradnja;NULL;kalorimetri
+4198;flat;sale;Beograd;"Vračar (Centar)";87;NULL;NULL;"- / 5";Da;Centralno;4;NULL;230000;Srbija;Novogradnja;NULL;kalorimetri
+4271;flat;sale;Beograd;Čubura;92;NULL;NULL;"- / 4";Da;Centralno;4;2;238621;Srbija;Novogradnja;NULL;kalorimetri
+4310;flat;sale;Beograd;Čubura;92;NULL;NULL;"4 / 4";Da;Centralno;4;2;237535;Srbija;Standardna;NULL;kalorimetri
+4311;flat;sale;Beograd;Čubura;95;NULL;NULL;"1 / 4";Da;Centralno;4;2;245859;Srbija;Standardna;NULL;kalorimetri
+4631;flat;sale;"Novi Sad";"Novo Naselje";69;NULL;NULL;"4 / 5";NULL;Centralno;NULL;NULL;90170;Srbija;Novogradnja;NULL;kalorimetri
+4763;flat;rent;Beograd;"Kalenić pijaca";55;2015;NULL;"5 / 5";NULL;NULL;1;NULL;400;Srbija;Standardna;NULL;kalorimetri
+4765;home;sale;"Mladenovac (varoš)";Kragujevačka;225;NULL;NULL;NULL;Da;"Centralno, Samostalno";4;NULL;120000;Srbija;Standardna;NULL;pumpa
+4891;flat;rent;Niš;"Crveni pevac";75;NULL;NULL;"4 / -";NULL;Centralno;3;1;380;Srbija;Standardna;NULL;kalorimetri
+4922;flat;sale;"Novi Sad";"Novo Naselje";83;NULL;NULL;"3 / 5";Da;NULL;4;1;98360;Srbija;NULL;NULL;kalorimetri
+4967;flat;sale;Beograd;"Mirijevo I";55;NULL;NULL;"1 / 3";Da;Centralno;3;1;72000;Srbija;Novogradnja;NULL;kalorimetri
+5184;flat;sale;Beograd;Autokomanda;86;NULL;NULL;"1 / 5";NULL;Centralno;3;2;173340;Srbija;Standardna;NULL;kalorimetri
+5297;flat;sale;Beograd;"Novi Beograd Blok 9";127;NULL;NULL;"2 / 7";Da;"Centralno, Klima";4;3;380000;Srbija;Novogradnja;NULL;kalorimetri
+5314;flat;sale;Beograd;"Vračar (Centar)";92;2020;NULL;"- / 4";NULL;Centralno;3;NULL;2350;Srbija;Novogradnja;NULL;kalorimetri
+5359;flat;rent;Beograd;"Lekino brdo";160;NULL;NULL;"- / 5";NULL;Klima;4;1;900;Srbija;Novogradnja;NULL;kalorimetri
+5487;flat;sale;Beograd;"Zemun (Gornji grad)";53;2020;NULL;"2 / 2";Da;Klima;2;NULL;123000;Srbija;Novogradnja;NULL;pumpa
+5510;flat;sale;Beograd;"Tošin bunar Savada 3";45;NULL;NULL;"10 / 10";NULL;"Centralno, Klima";2;NULL;121500;Srbija;U;NULL;kalorimetri
+5703;flat;sale;Beograd;"Vračar (Centar)";92;NULL;NULL;"1 / 4";NULL;Centralno;4;NULL;2350;Srbija;Novogradnja;NULL;kalorimetri
+5708;flat;sale;Beograd;"Vračar (Centar)";95;2020;NULL;"1 / 4";NULL;Centralno;4;NULL;2350;Srbija;Novogradnja;NULL;kalorimetri
+5715;flat;sale;Beograd;"Vračar (Centar)";92;2020;NULL;"- / 4";NULL;Centralno;3;NULL;2350;Srbija;Novogradnja;NULL;kalorimetri
+5718;flat;sale;Beograd;"Vračar (Centar)";89;NULL;NULL;"- / 4";NULL;Centralno;3;NULL;2350;Srbija;Novogradnja;NULL;kalorimetri
+5782;flat;sale;Beograd;"Vračar (Centar)";95;2020;NULL;"2 / 4";NULL;Centralno;4;NULL;2350;Srbija;Novogradnja;NULL;kalorimetri
+5838;flat;sale;"Novi Sad";"Novo Naselje";69;NULL;NULL;"- / -";Da;NULL;NULL;NULL;90170;Srbija;Novogradnja;NULL;kalorimetri
+5866;flat;sale;Beograd;"Beograd na vodi";64;NULL;NULL;"5 / 14";Da;"Centralno, Klima";1;1;272888;Srbija;Novogradnja;NULL;kalorimetri
+5950;flat;sale;Beograd;"Beograd na vodi";54;NULL;NULL;"4 / 8";Da;"Centralno, Klima";1;1;153888;Srbija;Novogradnja;NULL;kalorimetri
+6134;flat;sale;Beograd;Šumice;110;NULL;NULL;"4 / 4";NULL;"Centralno, Klima";4;2;225500;Srbija;Novogradnja;NULL;kalorimetri
+6149;flat;sale;Beograd;Čubura;109;NULL;NULL;"2 / 6";NULL;Centralno;4;3;305200;Srbija;Novogradnja;NULL;kalorimetri
+6365;flat;rent;"Novi Sad";Bulevar;69;NULL;NULL;"1 / -";NULL;"Centralno, Klima";3;1;550;Srbija;Novogradnja;NULL;kalorimetri
+6569;flat;sale;Beograd;"Cvetkova pijaca";88;NULL;NULL;"3 / 3";Da;Centralno;4;1;136400;Srbija;Standardna;NULL;kalorimetri
+6596;flat;sale;Beograd;Čubura;94;NULL;NULL;"6 / 6";Da;Centralno;4;1;380000;Srbija;Novogradnja;NULL;kalorimetri
+6626;flat;sale;Beograd;"Banovo brdo";60;2020;NULL;"3 / 8";Da;"Centralno, Klima";2;1;150350;Srbija;Novogradnja;NULL;kalorimetri
+6763;flat;sale;Beograd;Autokomanda;100;2020;NULL;"2 / 5";NULL;Centralno;4;2;199680;Srbija;Standardna;NULL;kalorimetri
+6768;flat;sale;Beograd;Autokomanda;124;2017;NULL;"2 / 7";NULL;Samostalno;4;2;248060;Srbija;Standardna;NULL;kalorimetri
+6842;flat;sale;Beograd;"Vračar (Centar)";87;NULL;NULL;"- / 5";Da;Centralno;4;NULL;230000;Srbija;Novogradnja;NULL;kalorimetri
+7009;flat;sale;"Novi Sad";"Novo Naselje";69;NULL;NULL;"4 / 5";NULL;Centralno;NULL;NULL;90170;Srbija;NULL;NULL;kalorimetri
+7111;flat;sale;Beograd;Kalemegdan;56;2020;NULL;"2 / 8";NULL;Centralno;2;1;180000;Srbija;Novogradnja;NULL;kalorimetri
+7250;flat;sale;Beograd;"Novi Beograd Blok 45 (TC Enjub)";113;NULL;NULL;"2 / 9";NULL;Centralno;4;NULL;248600;Srbija;Novogradnja;NULL;kalorimetri
+7257;flat;sale;Beograd;"Novi Beograd Blok 45 (TC Enjub)";98;NULL;NULL;"3 / 9";NULL;Centralno;3;NULL;215600;Srbija;Novogradnja;NULL;kalorimetri
+7327;flat;rent;Beograd;"Novi Beograd Blok 43 (Buvlja pijaca)";60;NULL;NULL;"7 / 9";NULL;"Centralno, Klima";2;1;650;Srbija;Novogradnja;NULL;kalorimetri
+7350;flat;sale;Beograd;"Lekino brdo";88;2004;NULL;"1 / 4";Da;Centralno;3;1;165000;Srbija;Standardna;NULL;kalorimetri
+7409;flat;sale;Beograd;"Vukov spomenik";39;NULL;NULL;"2 / 7";NULL;Centralno;1;1;101140;Srbija;Novogradnja;NULL;kalorimetri
+7521;flat;sale;Beograd;"Lekino brdo";130;2020;NULL;"4 / 4";NULL;"Centralno, Klima";5;2;241800;Srbija;U;NULL;kalorimetri
+7522;flat;sale;Beograd;"Lekino brdo";82;2020;NULL;"2 / 4";NULL;"Centralno, Klima";4;2;152520;Srbija;U;NULL;kalorimetri
+7575;flat;rent;Beograd;Voždovac;86;NULL;NULL;"2 / 2";NULL;"Centralno, Klima";4;1;700;Srbija;Novogradnja;NULL;kalorimetri
+7681;flat;sale;Beograd;"Zemun (Centar)";88;NULL;NULL;"1 / 6";NULL;Centralno;4;1;201000;Srbija;Nadogradnja;NULL;kalorimetri
+7748;home;sale;Beograd;Altina;750;NULL;NULL;NULL;NULL;"Samostalno, Klima";8;5;380000;Srbija;Novogradnja;NULL;pumpa
+7757;flat;rent;Beograd;Voždovac;75;NULL;NULL;"5 / -";NULL;"Centralno, Klima";3;1;700;Srbija;Novogradnja;NULL;kalorimetri
+7780;flat;sale;Beograd;"Beograd na vodi";145;NULL;NULL;"22 / 23";Da;Samostalno;5;1;539000;Srbija;Novogradnja;NULL;kalorimetri
+7818;flat;sale;Beograd;Čubura;89;NULL;NULL;"4 / 4";Da;Centralno;3;2;229289;Srbija;Standardna;NULL;kalorimetri
+7824;flat;sale;Beograd;"Novi Beograd Blok 60";59;2020;NULL;"2 / -";Da;"Centralno, Klima";2;1;128088;Srbija;Novogradnja;NULL;kalorimetri
+7835;flat;sale;Beograd;"Mirijevo I";69;NULL;NULL;"3 / 3";Da;Centralno;3;2;85000;Srbija;Standardna;NULL;kalorimetri
+7844;flat;sale;Beograd;Autokomanda;87;2020;NULL;"1 / 5";NULL;Centralno;3;2;173340;Srbija;Standardna;NULL;kalorimetri
+7864;flat;sale;Beograd;"Vračar (Hram)";81;NULL;NULL;"4 / 5";Da;Centralno;3;1;215000;Srbija;Novogradnja;NULL;kalorimetri
+7908;flat;sale;Beograd;"Centar (uži)";125;NULL;NULL;"4 / 5";Da;"Samostalno, Klima";4;1;449000;Srbija;Izvorno;NULL;pumpa
+7994;flat;sale;Petrovaradin;NULL;72;2020;NULL;"1 / 3";NULL;Klima;3;2;107500;Srbija;Novogradnja;NULL;kalorimetri
+7999;flat;sale;Beograd;"Novi Beograd Blok 65";118;2020;NULL;"7 / 9";NULL;Centralno;4;3;312000;Srbija;Novogradnja;NULL;kalorimetri
+8001;flat;sale;Beograd;"Novi Beograd Blok 65";101;2020;NULL;"5 / 9";NULL;Centralno;4;3;267640;Srbija;Novogradnja;NULL;kalorimetri
+8003;flat;sale;Beograd;"Novi Beograd Blok 65";204;NULL;NULL;"8 / 9";Da;"Centralno, Klima";5;4;481000;Srbija;Novogradnja;NULL;kalorimetri
+8057;flat;sale;Beograd;"Kalenić pijaca";123;2021;NULL;"4 / 5";NULL;Centralno;4;2;350170;Srbija;Novogradnja;NULL;kalorimetri
+8131;home;sale;Beograd;Voždovac;400;NULL;NULL;NULL;Da;Klima;6;3;714000;Srbija;Novogradnja;yes;pumpa
+8153;flat;sale;"Novi Sad";Podbara;110;NULL;NULL;"2 / 4";NULL;NULL;NULL;NULL;147300;Srbija;NULL;NULL;kalorimetri
+8154;flat;sale;"Novi Sad";Podbara;64;NULL;NULL;"1 / 4";NULL;NULL;NULL;NULL;92700;Srbija;NULL;NULL;kalorimetri
+8232;flat;sale;Beograd;Zvezdara;75;2016;NULL;"7 / 7";Da;Centralno;2;NULL;119000;Srbija;Novogradnja;NULL;kalorimetri
+8255;flat;sale;Beograd;Zvezdara;89;2019;NULL;"- / 7";NULL;Centralno;3;NULL;222500;Srbija;Novogradnja;NULL;kalorimetri
+8257;flat;sale;Beograd;Zvezdara;77;2019;NULL;"1 / 7";NULL;Centralno;3;NULL;192500;Srbija;Novogradnja;NULL;kalorimetri
+8261;flat;sale;Beograd;Voždovac;127;2019;NULL;"3 / 5";NULL;Centralno;4;NULL;280000;Srbija;U;NULL;kalorimetri
+8429;flat;sale;Beograd;"Višnjička banja";44;NULL;NULL;"3 / 5";NULL;Centralno;2;1;55000;Srbija;U;NULL;kalorimetri
+8576;flat;sale;Beograd;Voždovac;62;NULL;NULL;"6 / 7";Da;Centralno;3;1;119900;Srbija;Novogradnja;NULL;kalorimetri
+8647;flat;sale;Beograd;"Beograd na vodi";110;NULL;NULL;"15 / 15";Da;"Centralno, Klima";2;1;358888;Srbija;Novogradnja;NULL;kalorimetri
+8653;flat;sale;Beograd;"Beograd na vodi";77;NULL;NULL;"16 / 17";Da;"Centralno, Klima";2;1;214888;Srbija;Novogradnja;NULL;kalorimetri
+8917;flat;sale;Beograd;Autokomanda;65;NULL;NULL;"4 / 5";NULL;Centralno;2;1;130000;Srbija;Standardna;NULL;kalorimetri
+8928;home;sale;Beograd;"Borča I";200;NULL;NULL;NULL;NULL;NULL;1;1;110000;Srbija;Novogradnja;NULL;pumpa
+8949;flat;sale;Beograd;"Beograd na vodi";88;NULL;NULL;"14 / 22";Da;Samostalno;3;1;268888;Srbija;Novogradnja;NULL;kalorimetri
+9065;flat;sale;"Novi Sad";Centar;103;NULL;NULL;"- / -";Da;NULL;NULL;NULL;123200;Srbija;NULL;NULL;kalorimetri
+9093;flat;sale;"Novi Sad";"Novo Naselje";83;NULL;NULL;"- / -";Da;NULL;4;1;98360;Srbija;NULL;NULL;kalorimetri
+9096;flat;rent;Beograd;"Donji Dorćol";32;NULL;NULL;"5 / 8";Da;Centralno;1;1;450;Srbija;Novogradnja;NULL;kalorimetri
+9119;flat;sale;"Novi Sad";Centar;31;1992;NULL;"3 / 4";Da;Centralno;1;NULL;57500;Srbija;Novogradnja;NULL;kalorimetri
+9129;flat;sale;Beograd;"Višnjička banja";53;NULL;NULL;"3 / 5";NULL;NULL;2;1;66250;Srbija;Standardna;NULL;kalorimetri
+9241;flat;sale;Beograd;"Višnjička banja";75;NULL;NULL;"1 / 5";NULL;Centralno;3;NULL;103125;Srbija;Novogradnja;NULL;kalorimetri
+9243;flat;sale;Beograd;"Višnjička banja";80;NULL;NULL;"1 / 5";NULL;Centralno;3;NULL;110000;Srbija;Novogradnja;NULL;kalorimetri
+9248;flat;sale;Beograd;Zvezdara;83;NULL;NULL;"6 / 7";NULL;NULL;4;NULL;164340;Srbija;Novogradnja;NULL;pumpa
+9250;flat;sale;Beograd;"Višnjička banja";45;NULL;NULL;"1 / 5";NULL;Centralno;2;NULL;61875;Srbija;Novogradnja;NULL;kalorimetri
+9251;flat;sale;Beograd;"Višnjička banja";80;NULL;NULL;"1 / 5";NULL;Centralno;4;NULL;110000;Srbija;Novogradnja;NULL;kalorimetri
+9254;flat;sale;Beograd;"Višnjička banja";53;NULL;NULL;"1 / 5";NULL;Centralno;2;NULL;72875;Srbija;Novogradnja;NULL;kalorimetri
+9257;flat;sale;Beograd;"Višnjička banja";34;NULL;NULL;"1 / 5";NULL;Centralno;2;NULL;46750;Srbija;Novogradnja;NULL;kalorimetri
+9261;flat;sale;Beograd;"Višnjička banja";79;NULL;NULL;"1 / 5";NULL;Centralno;3;NULL;108625;Srbija;Novogradnja;NULL;kalorimetri
+9269;flat;sale;"Novi Sad";Telep;39;NULL;NULL;"4 / 4";NULL;NULL;2;NULL;58500;Srbija;Standardna;NULL;kalorimetri
+9338;flat;sale;Beograd;"Vračar (Centar)";69;2012;NULL;"1 / 7";Da;Centralno;3;NULL;200000;Srbija;Novogradnja;NULL;kalorimetri
+9473;flat;sale;Beograd;Voždovac;78;NULL;NULL;"3 / 4";Da;"Centralno, Klima";4;NULL;154000;Srbija;Novogradnja;NULL;kalorimetri
+9492;flat;rent;Beograd;"Beograd na vodi";90;2020;NULL;"1 / 5";NULL;Centralno;3;NULL;1300;Srbija;Novogradnja;NULL;kalorimetri
+9503;flat;sale;Beograd;"Beograd na vodi";90;2020;NULL;"1 / 5";NULL;Centralno;3;NULL;365000;Srbija;Novogradnja;NULL;kalorimetri
+9505;flat;sale;Beograd;"Lekino brdo";36;NULL;NULL;"1 / 3";NULL;Centralno;2;NULL;79900;Srbija;Novogradnja;NULL;kalorimetri
+9512;flat;sale;Beograd;"Dedinje (Beli dvor)";78;NULL;NULL;"3 / 4";NULL;Centralno;3;NULL;189582;Srbija;Novogradnja;NULL;pumpa
+9537;flat;sale;Beograd;"Dedinje (Beli dvor)";126;2020;NULL;"- / 4";NULL;Centralno;4;NULL;277244;Srbija;Novogradnja;NULL;pumpa
+9750;flat;rent;Beograd;"Beograd na vodi";70;NULL;NULL;"5 / 23";NULL;Centralno;2;NULL;1100;Srbija;Standardna;NULL;kalorimetri
+9821;flat;sale;Beograd;"Lipov lad";87;NULL;NULL;"- / 5";Da;Centralno;4;NULL;230000;Srbija;Novogradnja;NULL;kalorimetri
+9829;flat;sale;Beograd;Voždovac;80;2020;NULL;"1 / 3";NULL;Centralno;4;NULL;191500;Srbija;Novogradnja;NULL;kalorimetri
+9838;flat;sale;Beograd;"Denkova bašta";106;2015;NULL;"3 / 4";Da;Centralno;4;NULL;260000;Srbija;Novogradnja;NULL;kalorimetri
+9852;flat;sale;Beograd;"Gornji Dorćol";102;2020;NULL;"7 / 9";NULL;Centralno;3;NULL;286000;Srbija;Novogradnja;NULL;kalorimetri
+9860;flat;sale;Beograd;"Gornji Dorćol";107;2020;NULL;"1 / 5";NULL;Centralno;4;NULL;267500;Srbija;Novogradnja;NULL;kalorimetri
+10038;flat;sale;Petrovaradin;NULL;133;2020;NULL;"3 / 3";NULL;Klima;5;2;198600;Srbija;Novogradnja;NULL;kalorimetri
+10046;flat;sale;Beograd;"Bajlonijeva pijaca";46;2017;NULL;"4 / 6";Da;"Centralno, Klima";2;1;139000;Srbija;Novogradnja;NULL;kalorimetri
+10158;flat;rent;Beograd;Voždovac;70;NULL;NULL;"1 / 5";NULL;Centralno;2;1;450;Srbija;Novogradnja;NULL;kalorimetri
+10384;flat;sale;"Novi Sad";Podbara;62;2020;NULL;"3 / 4";Da;Centralno;NULL;NULL;79108;Srbija;Novogradnja;NULL;kalorimetri
+10385;flat;sale;"Novi Sad";Podbara;34;2020;NULL;"4 / 4";Da;Centralno;NULL;NULL;43332;Srbija;Novogradnja;NULL;kalorimetri
+10387;flat;sale;"Novi Sad";Podbara;34;2020;NULL;"4 / 4";Da;Centralno;NULL;NULL;43358;Srbija;Novogradnja;NULL;kalorimetri
+10389;flat;sale;"Novi Sad";Podbara;49;2020;NULL;"- / 4";Da;NULL;NULL;NULL;61976;Srbija;Novogradnja;NULL;kalorimetri
+10390;flat;sale;"Novi Sad";Podbara;74;2020;NULL;"1 / 4";Da;Centralno;NULL;NULL;93917;Srbija;Novogradnja;NULL;kalorimetri
+10391;flat;sale;"Novi Sad";Podbara;55;2020;NULL;"- / 4";Da;Centralno;NULL;NULL;70193;Srbija;Novogradnja;NULL;kalorimetri
+10392;flat;sale;"Novi Sad";Podbara;68;2020;NULL;"- / 4";Da;Centralno;3;NULL;85801;Srbija;Novogradnja;NULL;kalorimetri
+10393;flat;sale;"Novi Sad";Podbara;56;2020;NULL;"- / 4";Da;Centralno;NULL;NULL;71336;Srbija;Novogradnja;NULL;kalorimetri
+10394;flat;sale;"Novi Sad";Podbara;52;2020;NULL;"- / 4";Da;Centralno;NULL;NULL;66358;Srbija;Novogradnja;NULL;kalorimetri
+10395;flat;sale;"Novi Sad";Podbara;62;2020;NULL;"4 / 4";Da;Centralno;NULL;NULL;78677;Srbija;Novogradnja;NULL;kalorimetri
+10400;flat;sale;Beograd;"Crveni krst";62;NULL;NULL;"3 / 6";Da;Centralno;2;NULL;151900;Srbija;Novogradnja;NULL;kalorimetri
+10402;flat;sale;"Novi Sad";Podbara;48;2020;NULL;"- / 4";Da;Centralno;NULL;NULL;61303;Srbija;Novogradnja;NULL;kalorimetri
+10409;flat;sale;Beograd;Zvezdara;43;2020;NULL;"- / -";NULL;NULL;NULL;NULL;1700;Srbija;NULL;NULL;pumpa
+10414;flat;sale;Beograd;Voždovac;180;NULL;NULL;"2 / -";Da;Centralno;5;NULL;382200;Srbija;Novogradnja;NULL;kalorimetri
+10416;flat;sale;"Novi Sad";Detelinara;43;NULL;NULL;"6 / 6";NULL;Centralno;NULL;NULL;72420;Srbija;Novogradnja;NULL;kalorimetri
+10417;flat;sale;"Novi Sad";Podbara;69;2020;NULL;"1 / 4";Da;Centralno;NULL;NULL;87071;Srbija;Novogradnja;NULL;kalorimetri
+10419;flat;sale;"Novi Sad";Detelinara;101;NULL;NULL;"6 / 6";NULL;Centralno;NULL;NULL;129413;Srbija;Novogradnja;NULL;kalorimetri
+10420;flat;sale;"Novi Sad";Detelinara;73;NULL;NULL;"6 / 6";NULL;Centralno;NULL;NULL;90612;Srbija;Novogradnja;NULL;kalorimetri
+10421;flat;sale;"Novi Sad";Detelinara;101;NULL;NULL;"6 / 6";NULL;Centralno;NULL;NULL;127313;Srbija;Novogradnja;NULL;kalorimetri
+10422;flat;sale;Beograd;Zvezdara;63;2020;NULL;"2 / 6";NULL;NULL;3;NULL;1700;Srbija;NULL;NULL;pumpa
+10424;flat;sale;Beograd;"Crveni krst";46;NULL;NULL;"1 / 6";Da;Centralno;2;NULL;112700;Srbija;Novogradnja;NULL;kalorimetri
+10425;flat;sale;"Novi Sad";Detelinara;44;NULL;NULL;"6 / 6";NULL;NULL;NULL;NULL;65400;Srbija;Novogradnja;NULL;kalorimetri
+10428;flat;sale;"Novi Sad";Detelinara;48;NULL;NULL;"6 / 6";NULL;Centralno;NULL;NULL;71295;Srbija;NULL;NULL;kalorimetri
+10430;flat;sale;Beograd;"Lekino brdo";122;NULL;NULL;"4 / -";Da;Centralno;NULL;NULL;298000;Srbija;Novogradnja;NULL;kalorimetri
+10431;flat;sale;Beograd;Olimp;37;NULL;NULL;"- / -";NULL;NULL;NULL;NULL;1650;Srbija;Novogradnja;NULL;pumpa
+10432;flat;sale;Beograd;Zvezdara;46;2020;NULL;"3 / 6";NULL;NULL;2;NULL;1700;Srbija;NULL;NULL;pumpa
+10437;flat;sale;Beograd;Zvezdara;33;2020;NULL;"5 / 6";NULL;NULL;2;NULL;1700;Srbija;NULL;NULL;pumpa
+10438;flat;sale;Beograd;Zvezdara;39;2020;NULL;"1 / 6";NULL;NULL;2;NULL;1650;Srbija;U;NULL;pumpa
+10440;flat;sale;Beograd;Zvezdara;37;2020;NULL;"5 / 6";NULL;NULL;2;NULL;1700;Srbija;NULL;NULL;pumpa
+10446;flat;rent;Beograd;Voždovac;182;NULL;NULL;"1 / 3";Da;Centralno;5;NULL;1400;Srbija;Novogradnja;NULL;kalorimetri
+10447;flat;sale;Beograd;"Crveni krst";58;NULL;NULL;"3 / 7";Da;Centralno;3;1;140540;Srbija;Novogradnja;NULL;kalorimetri
+10448;flat;sale;Beograd;"Crveni krst";61;NULL;NULL;"3 / 7";Da;Centralno;3;1;146400;Srbija;Novogradnja;NULL;kalorimetri
+10449;flat;sale;Beograd;"Crveni krst";98;NULL;NULL;"3 / 7";Da;Centralno;4;2;245000;Srbija;Novogradnja;NULL;kalorimetri
+10453;flat;sale;"Novi Sad";Podbara;74;2020;NULL;"3 / 4";Da;Centralno;NULL;NULL;93929;Srbija;Novogradnja;NULL;kalorimetri
+10454;flat;sale;Beograd;"Crveni krst";169;NULL;NULL;"1 / 7";Da;Centralno;4;2;405600;Srbija;Novogradnja;NULL;kalorimetri
+10465;flat;sale;Beograd;"Banovo brdo";28;NULL;NULL;"- / -";NULL;NULL;NULL;NULL;NULL;Srbija;Novogradnja;NULL;kalorimetri
+10472;flat;sale;"Novi Sad";Podbara;45;NULL;NULL;"- / 4";Da;Centralno;NULL;NULL;56667;Srbija;Novogradnja;NULL;kalorimetri
+10482;flat;sale;"Novi Sad";Podbara;65;2020;NULL;"2 / 4";Da;Centralno;NULL;NULL;83045;Srbija;Novogradnja;NULL;kalorimetri
+10485;flat;sale;Beograd;"Lekino brdo";121;NULL;NULL;"3 / 4";Da;Centralno;4;2;235000;Srbija;Novogradnja;NULL;kalorimetri
+10580;flat;sale;Beograd;Neimar;83;NULL;NULL;"4 / 5";Da;Centralno;3;NULL;215000;Srbija;Izvorno;NULL;kalorimetri
+10597;flat;rent;Beograd;"Donji Dorćol";52;NULL;NULL;"3 / 0";NULL;Centralno;2;1;550;Srbija;Novogradnja;NULL;kalorimetri
+10599;flat;sale;Beograd;"Višnjička banja";46;NULL;NULL;"1 / 5";NULL;Centralno;2;NULL;63250;Srbija;Novogradnja;NULL;kalorimetri
